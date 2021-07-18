@@ -17,7 +17,7 @@ Install the dependencies used by the application
 
 Run Server
 ===============
-nodemon server.js
+nodemon aap.js
 ```
 
 You can browse the apis at <http://localhost:3000>
